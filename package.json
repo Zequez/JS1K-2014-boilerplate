@@ -1,0 +1,24 @@
+{
+  "name": "JS1K-2014-boilerplate",
+  "version": "0.1.0",
+  "description": "Boilerplate por js1k with uglify minification, livereload and file size notice",
+  "main": "package.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/zequez/JS1K-2014-boilerplate"
+  },
+  "author": "Ezequiel Zequez Schwartzman",
+  "license": "GPLv3 (I have no idea what's the difference between v1 v2 and v3)",
+  "bugs": {
+    "url": "https://github.com/zequez/JS1K-2014-boilerplate/issues"
+  },
+  "homepage": "https://github.com/zequez/JS1K-2014-boilerplate",
+  "devDependencies": {
+    "gulp": "~3.5.5",
+    "gulp-uglify": "~0.2.1",
+    "gulp-rename": "~1.1.0",
+    "gulp-watch": "~0.5.0",
+    "map-stream": "~0.1.0",
+    "colors": "~0.6.2"
+  }
+}
